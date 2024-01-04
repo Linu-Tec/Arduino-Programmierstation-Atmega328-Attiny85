@@ -1,7 +1,7 @@
 # Arduino-Programmierstation-Atmega328-Attiny85
 Arduino Programmierstation Atmega328 &amp; Attiny85
 
-Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Temperaturmessstation_34478d1d.html
+Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
 
 Und hier könnt ihr selber Platinen bestellen: https://pcbway.com/g/Bm3OZF
 
