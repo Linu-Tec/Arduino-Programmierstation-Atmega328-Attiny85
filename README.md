@@ -30,3 +30,19 @@ Move the breadboard folder from the zip archive to the "hardware" folder of your
 Restart the Arduino software.
 
 You should see "ATmega328 on a breadboard (8 MHz internal clock)" in the Tools > Board menu.
+
+
+Übersetzt:
+Minimale Schaltung (Eliminierung des externen Takts) Wenn Sie nicht über den zusätzlichen 16-MHz-Quarz und die 18–22 Picofarad-Kondensatoren verfügen, die in den obigen Beispielen verwendet wurden, können Sie den ATmega328P so konfigurieren, dass er stattdessen seinen internen 8-MHz-RC-Oszillator als Taktquelle verwendet. (Den 10K-Pullup-Widerstand am Reset-Pin benötigen Sie auch nicht wirklich, daher entfernen wir ihn, um eine wirklich minimale Konfiguration zu erhalten.)
+
+Sie müssen Unterstützung für eine zusätzliche Hardwarekonfiguration installieren:
+
+Laden Sie dieses Hardware-Konfigurationsarchiv herunter: breadboard-1-6-x.zip, Breadboard1-5-x.zip oder Breadboard1-0-x.zip, je nachdem, welche IDE Sie verwenden.
+
+Erstellen Sie einen Unterordner „Hardware“ in Ihrem Arduino-Skizzenbuchordner (dessen Speicherort Sie im Arduino-Einstellungsdialog finden). Wenn Sie zuvor Unterstützung für zusätzliche Hardwarekonfiguration installiert haben, befindet sich möglicherweise bereits ein Ordner „Hardware“ in Ihrem Skizzenbuch.
+
+Verschieben Sie den Breadboard-Ordner aus dem Zip-Archiv in den Ordner „Hardware“ Ihres Arduino-Skizzenbuchs.
+
+Starten Sie die Arduino-Software neu.
+
+Im Menü „Extras > Board“ sollte „ATmega328 auf einem Steckbrett (8 MHz interner Takt)“ angezeigt werden.
