@@ -14,6 +14,7 @@ Nur den Link einfügen (Arduino IDE), jeder Link in eine eigene Zeile!
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 
+
 (https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard#minimal-circuit-eliminating-the-external-clock)
 
 >Minimal Circuit (Eliminating the External Clock)
