@@ -14,6 +14,22 @@ Nur den Link einfügen (Arduino IDE), jeder Link in eine eigene Zeile!
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 
+Benötigte Bauteile:
+- 1x LED Grün 3mm
+- 1x LED Gelb 3mm
+- 1x LED Rot 3mm
+- 3x Widerstände 220Ohm
+- 1x Arduino Nano
+- 1x Atmega 328 / ATtiny
+- 2x 18pF-22pF Kondensatoren
+- 1x 10μF Kondensator
+- 1x 16Mhz Quarz
+- 2x Buchsenleiste, gerade, 15pol, 2,54mm
+- 1x Dip-Schalter 10 Pin
+- 1x Buchsenleiste, gerade 3pol, 2,54mm
+- 1x Klemmsockel 14pol
+
+
 
 (https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard#minimal-circuit-eliminating-the-external-clock)
 
