@@ -30,6 +30,9 @@ Benötigte Bauteile:
 - 1x Klemmsockel 14pol
 
 
+Video:
+https://youtu.be/NZSBKDk_zWk
+
 
 (https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard#minimal-circuit-eliminating-the-external-clock)
 
