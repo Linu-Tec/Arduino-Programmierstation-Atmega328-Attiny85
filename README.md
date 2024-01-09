@@ -33,6 +33,7 @@ Benötigte Bauteile:
 Video:
 https://youtu.be/NZSBKDk_zWk
 
+3D-Dateien: https://www.printables.com/de/model/715261-arduino-programmierstation-atmega328-attiny85
 
 (https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard#minimal-circuit-eliminating-the-external-clock)
 
