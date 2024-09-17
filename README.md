@@ -1,9 +1,9 @@
 # Arduino-Programmierstation-Atmega328-Attiny85
 Arduino Programmierstation Atmega328 &amp; Attiny85
 
-Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html
+Hier ist der Link zu den [Platinen](https://www.pcbway.com/project/shareproject/Arduino_Programmierstation_Atmega328_Attiny85_442d283b.html)
 
-Und hier könnt ihr selber Platinen bestellen: https://pcbway.com/g/Bm3OZF
+Und hier könnt ihr selber [Platinen](https://pcbway.com/g/Bm3OZF) bestellen
 
 ![PCBWay-logo](https://github.com/Linu-Tec/Arduino-Programmierstation-Atmega328-Attiny85/assets/70856050/44f13653-726e-4d82-9f55-a3f83fe6b401)
 
@@ -11,7 +11,7 @@ Und hier könnt ihr selber Platinen bestellen: https://pcbway.com/g/Bm3OZF
 
 
 Nur den Link einfügen (Arduino IDE), jeder Link in eine eigene Zeile!
-https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+- https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
 
 Benötigte Bauteile:
@@ -30,10 +30,9 @@ Benötigte Bauteile:
 - 1x Klemmsockel 14pol
 
 
-Video:
-https://youtu.be/NZSBKDk_zWk
+[Video](https://youtu.be/NZSBKDk_zWk)
 
-3D-Dateien: https://www.printables.com/de/model/715261-arduino-programmierstation-atmega328-attiny85
+[3D-Dateien](https://www.printables.com/de/model/715261-arduino-programmierstation-atmega328-attiny85)
 
 (https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoToBreadboard#minimal-circuit-eliminating-the-external-clock)
 
